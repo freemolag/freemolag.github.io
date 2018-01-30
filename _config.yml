@@ -28,7 +28,7 @@ github_username:  freemolag
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins: ['jekyll-paginate']
 # Pagination
 paginate: 5
